@@ -1,0 +1,18 @@
+<resources>
+	<string name="app_name">ImageFilter</string>
+	<string name="normal">原图</string>
+	<string name="gray">灰色滤镜</string>
+	<string name="baw">黑白滤镜</string>
+	<string name="back_sheet">底片滤镜</string>
+	<string name="relief">浮雕滤镜</string>
+	<string name="chose_pic">选择图片</string>
+	<string name="save_pic">保存</string>
+	<string name="preview">预览</string>
+	<string name="processing">正在处理</string>
+	<string name="process_succeed">处理成功</string>
+	<string name="process_failed">处理失败</string>
+	<string name="create_failed">创建文件失败</string>
+	<string name="not_modified">没有使用任何滤镜，不需要保存</string>
+	<string name="write_failed">写文件失败</string>
+	<string name="write_succeed">保存成功</string>
+</resources>
